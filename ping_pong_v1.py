@@ -1,5 +1,5 @@
 #Simple pong Game using Turlte package
-
+#my first game in python is ping pong using turtle module
 import turtle 
 
 win = turtle.Screen()
